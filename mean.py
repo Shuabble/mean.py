@@ -1,5 +1,5 @@
 # Joshua Mikael P. Diñoso
-# PreLab - 1 Contribution
+# PostLab - 1 Contribution
 # Programming Problem 1 - Mean Function
 
 # Mean function, length of number list will be determined using python's inbuilt length function,
